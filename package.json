@@ -1,7 +1,7 @@
 {
-    "name": "@soniox/n8n-nodes-soniox",
-    "version": "0.1.5",
-    "description": "n8n community node for Soniox speech-to-text transcription",
+    "name": "@oregapam/n8n-nodes-soniox",
+    "version": "0.1.6",
+    "description": "n8n community node for Soniox speech-to-text transcription (with fix)",
     "license": "MIT",
     "homepage": "https://soniox.com",
     "keywords": [
@@ -21,7 +21,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/soniox/n8n-nodes-soniox.git"
+        "url": "https://github.com/oregapam/n8n-nodes-soniox.git"
     },
     "publishConfig": {
         "access": "public"
